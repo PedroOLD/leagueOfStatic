@@ -1,0 +1,9 @@
+:root {
+    /* font-size */
+    --font-normal: 24px;
+
+    /* color */
+    --color-red-light: #FF4656;
+    --color-white: #FFFFFF;
+    --color-dark: #1F2326;
+}

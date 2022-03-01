@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+
+    padding: 1.5rem  0.5rem;
+}
+
+.navbar p {
+    font-size: var(--font-normal);
+    color : var(--color-white);
+}
+
+.navbar p a {
+    text-decoration : none;
+    color : var(--color-white);
+}
+
+#logo-league {
+    max-height: 38px;
+}
+
+#share {
+    width: 3rem;
+    height: auto;
+}
+
